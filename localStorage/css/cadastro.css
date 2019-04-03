@@ -1,0 +1,11 @@
+#formulario{
+	position: absolute;
+  left: 40%;
+  top: 20%;
+
+  -webkit-justify-content: center;
+  justify-content: center;
+}
+#enviar{
+	background-color: #3A5FCD;
+}
